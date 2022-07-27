@@ -1,0 +1,29 @@
+[2022-04-21 17:49:53] local.INFO: [{"id":1,"division_id":1,"nombre":"Coordinaci\u00f3n de Ciencias Aplicadas","created_at":"2022-04-19T16:34:34.000000Z","updated_at":"2022-04-19T16:34:34.000000Z"},{"id":2,"division_id":1,"nombre":"Coordinaci\u00f3n de F\u00edsica y Qu\u00edmica","created_at":"2022-04-19T16:34:34.000000Z","updated_at":"2022-04-19T16:34:34.000000Z"},{"id":3,"division_id":1,"nombre":"Coordinaci\u00f3n de Matem\u00e1ticas","created_at":"2022-04-19T16:34:34.000000Z","updated_at":"2022-04-19T16:34:34.000000Z"}]  
+[2022-04-21 17:49:56] local.INFO: [{"id":1,"depto_id":1,"nombre":"ANALISIS NUMERICO","created_at":"2022-04-19T16:34:34.000000Z","updated_at":"2022-04-19T16:34:34.000000Z"},{"id":2,"depto_id":1,"nombre":"CINEMATICA Y DINAMICA","created_at":"2022-04-19T16:34:34.000000Z","updated_at":"2022-04-19T16:34:34.000000Z"},{"id":3,"depto_id":1,"nombre":"CINEMATICA Y DINAMICA (2016)","created_at":"2022-04-19T16:34:34.000000Z","updated_at":"2022-04-19T16:34:34.000000Z"},{"id":4,"depto_id":1,"nombre":"DIBUJO","created_at":"2022-04-19T16:34:34.000000Z","updated_at":"2022-04-19T16:34:34.000000Z"},{"id":5,"depto_id":1,"nombre":"DIBUJO  (2016)","created_at":"2022-04-19T16:34:34.000000Z","updated_at":"2022-04-19T16:34:34.000000Z"},{"id":6,"depto_id":1,"nombre":"ECUACIONES DIFERENCIALES (2016)","created_at":"2022-04-19T16:34:34.000000Z","updated_at":"2022-04-19T16:34:34.000000Z"},{"id":7,"depto_id":1,"nombre":"ESTADISTICA","created_at":"2022-04-19T16:34:34.000000Z","updated_at":"2022-04-19T16:34:34.000000Z"},{"id":8,"depto_id":1,"nombre":"ESTADISTICA PARA ING. ELEC. ELECTRONICA","created_at":"2022-04-19T16:34:34.000000Z","updated_at":"2022-04-19T16:34:34.000000Z"},{"id":9,"depto_id":1,"nombre":"ESTATICA","created_at":"2022-04-19T16:34:35.000000Z","updated_at":"2022-04-19T16:34:35.000000Z"},{"id":10,"depto_id":1,"nombre":"ESTATICA (2016)","created_at":"2022-04-19T16:34:35.000000Z","updated_at":"2022-04-19T16:34:35.000000Z"},{"id":11,"depto_id":1,"nombre":"FUNDAMENTOS DE ESTADISTICA","created_at":"2022-04-19T16:34:35.000000Z","updated_at":"2022-04-19T16:34:35.000000Z"},{"id":12,"depto_id":1,"nombre":"MATEMATICAS AVANZADAS","created_at":"2022-04-19T16:34:35.000000Z","updated_at":"2022-04-19T16:34:35.000000Z"},{"id":13,"depto_id":1,"nombre":"MECANICA  (2016)","created_at":"2022-04-19T16:34:35.000000Z","updated_at":"2022-04-19T16:34:35.000000Z"},{"id":14,"depto_id":1,"nombre":"PROBABILIDAD","created_at":"2022-04-19T16:34:35.000000Z","updated_at":"2022-04-19T16:34:35.000000Z"},{"id":15,"depto_id":1,"nombre":"PROBABILIDAD Y ESTADISTICA","created_at":"2022-04-19T16:34:35.000000Z","updated_at":"2022-04-19T16:34:35.000000Z"},{"id":16,"depto_id":1,"nombre":"REPRESENTACIONES GRAFICAS","created_at":"2022-04-19T16:34:35.000000Z","updated_at":"2022-04-19T16:34:35.000000Z"},{"id":17,"depto_id":1,"nombre":"DIBUJO INDUSTRIAL","created_at":"2022-04-19T16:34:35.000000Z","updated_at":"2022-04-19T16:34:35.000000Z"},{"id":18,"depto_id":1,"nombre":"FUNDAMENTOS DE PROBABILIDAD Y ESTADISTICA","created_at":"2022-04-19T16:34:35.000000Z","updated_at":"2022-04-19T16:34:35.000000Z"},{"id":19,"depto_id":1,"nombre":"LABORATORIO MECANICA (2016)","created_at":"2022-04-19T16:34:35.000000Z","updated_at":"2022-04-19T16:34:35.000000Z"}]  
+[2022-04-21 17:50:02] local.INFO: array (
+  'division' => '1',
+  'departamento' => 'Coordinación de Ciencias Aplicadas',
+  'asignatura' => '15',
+)  
+[2022-04-21 17:53:05] local.INFO: array (
+  'division' => '1',
+  'departamento' => 'Coordinación de Ciencias Aplicadas',
+  'asignatura' => '15',
+)  
+[2022-04-21 17:56:08] local.INFO: array (
+  'division' => '1',
+  'departamento' => 'Coordinación de Ciencias Aplicadas',
+  'asignatura' => '15',
+)  
+[2022-04-21 17:56:44] local.INFO: array (
+  'division' => '1',
+  'departamento' => 'Coordinación de Ciencias Aplicadas',
+  'asignatura' => '15',
+)  
+[2022-04-21 17:57:05] local.INFO: [{"id":1,"division_id":1,"nombre":"Coordinaci\u00f3n de Ciencias Aplicadas","created_at":"2022-04-19T16:34:34.000000Z","updated_at":"2022-04-19T16:34:34.000000Z"},{"id":2,"division_id":1,"nombre":"Coordinaci\u00f3n de F\u00edsica y Qu\u00edmica","created_at":"2022-04-19T16:34:34.000000Z","updated_at":"2022-04-19T16:34:34.000000Z"},{"id":3,"division_id":1,"nombre":"Coordinaci\u00f3n de Matem\u00e1ticas","created_at":"2022-04-19T16:34:34.000000Z","updated_at":"2022-04-19T16:34:34.000000Z"}]  
+[2022-04-21 17:57:09] local.INFO: [{"id":48,"depto_id":3,"nombre":"ALGEBRA (2016)","created_at":"2022-04-19T16:34:35.000000Z","updated_at":"2022-04-19T16:34:35.000000Z"},{"id":49,"depto_id":3,"nombre":"ALGEBRA LINEAL","created_at":"2022-04-19T16:34:35.000000Z","updated_at":"2022-04-19T16:34:35.000000Z"},{"id":50,"depto_id":3,"nombre":"ALGEBRA LINEAL (2016)","created_at":"2022-04-19T16:34:35.000000Z","updated_at":"2022-04-19T16:34:35.000000Z"},{"id":51,"depto_id":3,"nombre":"CALCULO INTEGRAL","created_at":"2022-04-19T16:34:35.000000Z","updated_at":"2022-04-19T16:34:35.000000Z"},{"id":52,"depto_id":3,"nombre":"CALCULO INTEGRAL (2016)","created_at":"2022-04-19T16:34:35.000000Z","updated_at":"2022-04-19T16:34:35.000000Z"},{"id":53,"depto_id":3,"nombre":"CALCULO VECTORIAL","created_at":"2022-04-19T16:34:35.000000Z","updated_at":"2022-04-19T16:34:35.000000Z"},{"id":54,"depto_id":3,"nombre":"CALCULO VECTORIAL (2016)","created_at":"2022-04-19T16:34:35.000000Z","updated_at":"2022-04-19T16:34:35.000000Z"},{"id":55,"depto_id":3,"nombre":"CALCULO Y GEOMETRIA ANALITICA (2016)","created_at":"2022-04-19T16:34:35.000000Z","updated_at":"2022-04-19T16:34:35.000000Z"}]  
+[2022-04-21 17:57:15] local.INFO: array (
+  'division' => '1',
+  'departamento' => 'Coordinación de Matemáticas',
+  'asignatura' => '55',
+)  

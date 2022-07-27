@@ -12,12 +12,12 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return redirect()->route('home');
 });
 
 Auth::routes();
 
-Route::get('/home', 'HomeController@index')->name('home');
+Route::get('/programa_de_estudios', 'HomeController@index')->name('home');
 Route::get('/getDepartamento/{division_id}', 'HomeController@getDepartamento')->name('getDepartamento');
 Route::get('/getAsignatura/{depto_id}', 'HomeController@getAsignatura')->name('getAsignatura');
 
